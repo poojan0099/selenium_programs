@@ -1,0 +1,10 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite">
+<test name="Testng">
+<classes>
+<class name="java_selenium.Testng"/>
+<class name="java_selenium.first_program"/>
+</classes>
+</test>
+</suite>
